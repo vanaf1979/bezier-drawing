@@ -1,6 +1,5 @@
 import sys
-from PySide6.QtWidgets import (QApplication, QMainWindow, QGraphicsScene, QGraphicsView, QGraphicsItem,
-                               QGraphicsLineItem, QStyleOptionGraphicsItem, QWidget)
+from PySide6.QtWidgets import (QApplication, QMainWindow, QGraphicsScene, QGraphicsView, QGraphicsItem, QGraphicsLineItem, QStyleOptionGraphicsItem, QWidget)
 from PySide6.QtGui import QColor, QPainter, QBrush, QPen
 from PySide6.QtCore import Qt, QRectF, QObject, Signal, QPointF
 
